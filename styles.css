@@ -1,0 +1,21 @@
+h1 {
+    font-size: 40px;
+    text-align: center;
+    background-color: blueviolet;
+    color: coral;
+    text-transform: uppercase;
+    background: cyan;
+}
+
+p {
+    background-color: darkgoldenrod;
+    color: bisque;
+    font-size: 28px;
+}
+
+a, h1, p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+}
